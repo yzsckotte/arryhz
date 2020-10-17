@@ -9,8 +9,7 @@
 html,
 body {
     font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.7em;/* em is more preferrably on mobile devices rather than px*/
-    /* line height is like line sacing in MS Word */
+    line-height: 1.7em;
 }
 
 a {
@@ -74,7 +73,7 @@ p {
 
 #showcase {
     background: url("../img/10.jpg") no-repeat center center/cover;
-    height: 600px;
+    height: 1000px;
 }
 #showcase .showcase-name {
     color: rgb(100, 159, 226);
